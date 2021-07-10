@@ -4,7 +4,7 @@
 
 ## Overview of Analysis
 
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They asked me to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. I have chosen unsupervised learning to group these and created visualizations to present.
+Accountability Accounting, an investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. They asked me to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. I have chosen unsupervised learning to group these and created visualizations to present.
 
 ## Results
 
